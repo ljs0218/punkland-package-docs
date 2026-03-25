@@ -1,0 +1,5 @@
+{
+    "name": "UIKit",
+    "main": "Init",
+    "dependencies": ["MathLib"]
+}

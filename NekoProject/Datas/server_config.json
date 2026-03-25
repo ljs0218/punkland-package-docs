@@ -1,0 +1,5 @@
+{
+    "maxPlayers": 100,
+    "tickRate": 20,
+    "saveInterval": 300
+}
